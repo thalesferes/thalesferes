@@ -9,14 +9,6 @@
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
-
-### <p align="center">:octocat: Github Stats :star:</p> 
-
-<div align="center">
-  <a href="https://github.com/thalesferes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesferes&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesferes&layout=compact&langs_count=7&theme=aura"/>
-</div>
   
 ### <p align="center">:computer: Languages, and Tools :stuck_out_tongue:</p>
   
