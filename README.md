@@ -10,7 +10,7 @@
 </a>
 </div>
   
-### <p align="center">:computer: Languages, and Tools :stuck_out_tongue:</p>
+### <p align="center">:computer: Languages and Tools :stuck_out_tongue:</p>
   
 <div align="center">
     
