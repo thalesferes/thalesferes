@@ -1,7 +1,7 @@
 ### <p align="center">:mortar_board: :rocket: :coffee: :dart: [About Me](https://engeprodu.github.io/#home) :zap: :musical_score: :family: :books:</p>
 
 <div align="center">
-  <p>Trabalhei no ramo da construção civil desde 2004 e fui até 2021. Comecei como auxiliar de escritório e com o passar do tempo tenho me empenhado em buscar a excelência profissional. Minha formação foi fortalecida em dois cursos técnicos e um superior (sou engenheiro de produção, técnico de obras e técnico de segurança do trabalho). Decidi migrar para o mercado de tecnologia em 2021. O ano de 2022 iniciou otimista, em fevereiro fui aceito no Enjoei.com.br, nele, trabalho como Desenvolvedor Back End Jr., dedicando foco e energia para construir uma nova carreira junto aos mais experientes.</p>
+  <p>Trabalhei no ramo da construção civil desde 2004 e fui até 2021. Comecei como auxiliar de escritório e com o passar do tempo tenho me empenhado em buscar a excelência profissional. Minha formação foi fortalecida em dois cursos técnicos e um superior (sou engenheiro de produção, técnico de obras e técnico de segurança do trabalho). Decidi migrar para o mercado de tecnologia em 2021. O ano de 2022 iniciou otimista, em fevereiro fui aceito no Enjoei.com.br, nele, trabalhei como Desenvolvedor Back End Jr., dedicando foco e energia para construir uma nova carreira junto aos mais experientes.</p>
 <a href="https://www.linkedin.com/in/thales-feres/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
